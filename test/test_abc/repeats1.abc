@@ -1,0 +1,4 @@
+X:1
+T:Test for repeats parsing
+K:C
+A B C D |: C D E F | G A B c :|
